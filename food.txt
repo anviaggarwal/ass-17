@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset = "UTF-8">
+  <title>"FOOD"</title>
+  <style>
+  h2{
+    color:black;
+    }
+  h3{
+    color:black;
+    }
+  img {
+    margin-left: auto;
+    margin-right: auto;
+ }
+ </style>
+</head>
+<body>
+  <h1 style="color:brown; text-align:center">FOOD</h1>
+  <h2> PAASTA </h2>
+    <img src="pasta.jpg" alt ="dark" style="width:25%">
+    <p>Pasta is a staple food of traditional Italian cuisine.<p>
+     <h3>MAIN INGREDIENTS:</h3>
+    <ul>
+      <li>2 cups cake flour</li>
+      <li>1 cup all-purpose flour</li>
+      <li>4 large egg yolks</li>
+      <li>1/8 teaspoon kosher salt</li>
+      <li>1/4 cup extra-virgin olive oil</li>
+    </ul>
+    <p>For more info:<a href="https://en.wikipedia.org/wiki/Pasta" target="blank">Pasta Link</a><p>	
+
+
+  <h2>PIZZA </h2>
+    <img src="pizza.jpg" alt ="dark" style="width:25%">
+    <p>Pizza is a savoury dish of Italian origin, consisting of a usually round, flattened base.<p>
+     <h3>MAIN INGREDIENTS:</h3>
+    <ul>
+      <li>Dough/Flour</li>
+      <li>Pizza Sauce</li>
+      <li>Vegetables</li>
+      <li>Salt</li>
+      <li>Other Toppings</li>
+    </ul>
+    <p>For more info:<a href="https://en.wikipedia.org/wiki/Pizza" target="blank">Pizza Link</a><p>	
+
+  <h2> BURGER </h2>
+    <img src="burger.png" alt ="dark" style="width:25%">
+   <p>Burger is a fast food with two layers of bread containing different items inside it. <p>
+     <h3>MAIN INGREDIENTS:</h3>
+    <ul>
+      <li>bun</li>
+      <li>sauces</li>
+      <li>aloo tikki</li>
+      <li>vegetables</li>
+      <li></li>
+    </ul>
+    <p>For more info:<a href="https://en.wikipedia.org/wiki/Hamburger" target="blank">Burger Link</a><p>
+</body>
+</html>
