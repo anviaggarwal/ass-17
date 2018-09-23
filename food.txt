@@ -18,6 +18,14 @@
 </head>
 <body>
   <h1 style="color:brown; text-align:center">FOOD</h1>
+  <nav>
+       <ul>
+        <li><a href="#pasta">Pasta</a></li>
+        <li><a href="#pizza">Pizza</a></li>
+        <li><a href="#burger">Burger</a></li>
+       </ul>
+     </nav>
+  <article id="pasta">
   <h2> PAASTA </h2>
     <img src="pasta.jpg" alt ="dark" style="width:25%">
     <p>Pasta is a staple food of traditional Italian cuisine.<p>
@@ -30,8 +38,10 @@
       <li>1/4 cup extra-virgin olive oil</li>
     </ul>
     <p>For more info:<a href="https://en.wikipedia.org/wiki/Pasta" target="blank">Pasta Link</a><p>	
+    </article>	
 
-
+  <article id="pizza">
+  
   <h2>PIZZA </h2>
     <img src="pizza.jpg" alt ="dark" style="width:25%">
     <p>Pizza is a savoury dish of Italian origin, consisting of a usually round, flattened base.<p>
@@ -44,9 +54,11 @@
       <li>Other Toppings</li>
     </ul>
     <p>For more info:<a href="https://en.wikipedia.org/wiki/Pizza" target="blank">Pizza Link</a><p>	
+    </article>	
 
+  <article id="burger">
   <h2> BURGER </h2>
-    <img src="burger.png" alt ="dark" style="width:25%">
+    <img src="burger.jpg" alt ="dark" style="width:25%">
    <p>Burger is a fast food with two layers of bread containing different items inside it. <p>
      <h3>MAIN INGREDIENTS:</h3>
     <ul>
@@ -57,5 +69,6 @@
       <li></li>
     </ul>
     <p>For more info:<a href="https://en.wikipedia.org/wiki/Hamburger" target="blank">Burger Link</a><p>
-</body>
-</html>
+    </article>
+    </body>
+    </html>
